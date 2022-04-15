@@ -1,2 +1,5 @@
-#EXTINF:-1,  PREMIUM 1 4K
+#EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8196000,AVERAGE-BANDWIDTH=6402000
 https://prod-ec-eu-west-1.video.pscp.tv:443/Transcoding/v1/hls/KrBgWqx5O1yjLvggooyKOJf1fXz_aApszE1tkhOIQXTK2pgQowldzc7DQAt6jHaS480Zy-l7iiwlRaagIgGqQw/transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+
+
